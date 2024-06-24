@@ -1,0 +1,4 @@
+// 1.20.1	2024-06-24T03:29:23.5115817	Registries
+58df18941814d0e6afe8aa5f30ac2b3c355b0472 data/ebimod/forge/biome_modifier/add_ebi_ore.json
+09135b562f1cac93b0976817c52d967f5db0cc0a data/ebimod/worldgen/configured_feature/ebi_ore.json
+1e19a95c0c42eef0a5f0185d15d1b96ff03f4a4b data/ebimod/worldgen/placed_feature/ore_ebi.json

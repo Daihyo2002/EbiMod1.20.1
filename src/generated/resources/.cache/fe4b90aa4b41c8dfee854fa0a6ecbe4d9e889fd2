@@ -1,0 +1,6 @@
+// 1.20.1	2024-06-23T23:41:46.0483941	Global Loot Modifiers : ebimod
+26664eb629b43beabd1c709c0f8cea352a69de38 data/ebimod/loot_modifiers/ebi_ingot_from_ruined_portal.json
+eab960789e4e0c0bf13692892e9a389d65585232 data/ebimod/loot_modifiers/ebi_ingot_from_sniffer_digging.json
+2a95765b608a6a64fcb12a025d937f7c63682c89 data/ebimod/loot_modifiers/ebi_ingot_from_sus_sand.json
+060123bb979ba3da94e886149f3e2e6da7317761 data/ebimod/loot_modifiers/ebi_ingot_from_zombie.json
+ad7605d1a7ad8878c1e27ecbce6d891c64ccc0ce data/forge/loot_modifiers/global_loot_modifiers.json

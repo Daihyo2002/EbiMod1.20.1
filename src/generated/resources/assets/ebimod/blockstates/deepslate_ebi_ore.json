@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "ebimod:block/deepslate_ebi_ore"
+    }
+  }
+}

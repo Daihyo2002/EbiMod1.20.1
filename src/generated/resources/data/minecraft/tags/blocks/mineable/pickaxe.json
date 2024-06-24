@@ -1,0 +1,8 @@
+{
+  "values": [
+    "ebimod:ebi_block",
+    "ebimod:raw_ebi_block",
+    "ebimod:ebi_ore",
+    "ebimod:deepslate_ebi_ore"
+  ]
+}

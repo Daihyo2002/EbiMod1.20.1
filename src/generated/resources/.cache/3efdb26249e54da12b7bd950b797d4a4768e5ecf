@@ -1,0 +1,4 @@
+// 1.20.1	2024-06-24T00:20:20.4461282	Tags for minecraft:block mod id ebimod
+c607f6a6b3040cdab5b01ec71f8cb2c9346f11b1 data/forge/tags/blocks/needs_netherite_tool.json
+983ac71f46a3ebb6513a70119c9241ba74785ecf data/minecraft/tags/blocks/mineable/pickaxe.json
+f8d486eb4902a80494b4ce6768368dd45f67a187 data/minecraft/tags/blocks/needs_diamond_tool.json

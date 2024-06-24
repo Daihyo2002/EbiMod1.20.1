@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_ebi_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ebimod:ebi_ore"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "ebimod:ebi_ingot_from_smelting_ebi_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_ebi_ore",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "ebimod:ebi_ingot_from_smelting_ebi_ore"
+    ]
+  },
+  "sends_telemetry_event": false
+}

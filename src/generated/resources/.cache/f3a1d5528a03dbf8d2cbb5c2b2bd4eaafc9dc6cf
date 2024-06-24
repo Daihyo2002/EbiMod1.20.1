@@ -1,0 +1,13 @@
+// 1.20.1	2024-06-24T00:20:20.4521127	Block States: ebimod
+1046a9e884ae23dac576b7c36a08d2bdfa41a479 assets/ebimod/blockstates/deepslate_ebi_ore.json
+a35c5483b8f232e302a36a169c1d3ac1cae09a78 assets/ebimod/blockstates/ebi_block.json
+614ae7c55b78216aa4626969b8cef5507f2a027e assets/ebimod/blockstates/ebi_ore.json
+a5b84958fe93e7de6c49601c17b1945c724d7919 assets/ebimod/blockstates/raw_ebi_block.json
+019c5b06460e8d96b5b7eaff36bf07fb6596e10d assets/ebimod/models/block/deepslate_ebi_ore.json
+2d34e15717be1ab52ca8cb266ca0a3e320463da1 assets/ebimod/models/block/ebi_block.json
+cf67f7bbad2d96926b86976e40e5b291d2efe515 assets/ebimod/models/block/ebi_ore.json
+069e549cd850d72687b21df793c936c4d6c16b41 assets/ebimod/models/block/raw_ebi_block.json
+a72a7b44aa860f80211aaf33a18739fdea0d7816 assets/ebimod/models/item/deepslate_ebi_ore.json
+e67c2f0c1deba7a3ca6f2ad4e20a02cbea0693ae assets/ebimod/models/item/ebi_block.json
+e0fd9a60983ffb91b23b8610d0841bae3182b599 assets/ebimod/models/item/ebi_ore.json
+0e7add597646f7c390448d3d03b50ecccb50d0c6 assets/ebimod/models/item/raw_ebi_block.json

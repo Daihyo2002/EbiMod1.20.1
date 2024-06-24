@@ -1,0 +1,9 @@
+{
+  "entries": [
+    "ebimod:ebi_ingot_from_ruined_portal",
+    "ebimod:ebi_ingot_from_zombie",
+    "ebimod:ebi_ingot_from_sniffer_digging",
+    "ebimod:ebi_ingot_from_sus_sand"
+  ],
+  "replace": false
+}

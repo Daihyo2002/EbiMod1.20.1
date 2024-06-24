@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "group": "ebi",
+  "ingredient": {
+    "item": "ebimod:deepslate_ebi_ore"
+  },
+  "result": "ebimod:ebi_ingot"
+}

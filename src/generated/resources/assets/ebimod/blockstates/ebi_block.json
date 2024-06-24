@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "ebimod:block/ebi_block"
+    }
+  }
+}
